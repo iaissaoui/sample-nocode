@@ -1,2 +1,2 @@
 # sample-nocode
-Obligatory no code repo :)
+nothing here
